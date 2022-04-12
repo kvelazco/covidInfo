@@ -1,2 +1,1 @@
-echo PORT $PORT
-web: sh setup.sh && streamlit run --server.port $PORT covid_info.py
+web:sh setup.sh && streamlit run covid_info.py
