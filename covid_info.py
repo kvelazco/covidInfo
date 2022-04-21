@@ -37,9 +37,9 @@ def welcome():
     st.write("""Select the country on the dropdown menu or leave by default to see the combined world statistics""")
     st.subheader("Information")
     st.write("""
-        This app was created by Kevin Velazco, a student at Florida International University.
         Data gathered from Worldometer.com, Johns Hopkins University, and other sources using a COVID-19 API.
         """)
+    # This app was created by Kevin Velazco, a student at Florida International University.
     st.write("""
         Relevant links:
         """)
